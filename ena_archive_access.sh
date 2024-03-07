@@ -1,4 +1,4 @@
-alignment {
+alignment () {
    # a streamline function for accessing the ENA archives using the API access.
    #!/usr/bin/env bash
    # -*- coding:  utf-8 -*-
